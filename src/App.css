@@ -1,0 +1,20 @@
+.buttonStyle {
+  position: relative;
+  z-index: 1;
+}
+
+.contentStyle {
+  position: relative;
+  z-index: 1;
+  background-color: red;
+  padding: 10px;
+}
+
+.modalClose {
+  position: absolute;
+  top: 5px;
+  right: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
